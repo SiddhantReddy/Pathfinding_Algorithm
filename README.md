@@ -7,4 +7,5 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 
 &nbsp;
 ![ScreenShot](https://raw.github.com/SiddhantReddy/Pathfinding_Algorithm/master/Screenshot01.png)
+&nbsp;
 ![ScreenShot](https://raw.github.com/SiddhantReddy/Pathfinding_Algorithm/master/Screenshot02.png)
